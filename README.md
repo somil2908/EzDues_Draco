@@ -1,5 +1,6 @@
-# EzDues_Draco
 
+Khushal
+=======
 ## 🤝 Contributing
 1. Create a fork of this repository(change your branch to workspace before doing this)
 2. Clone the forked repository on your local device using Github Desktop
@@ -12,7 +13,4 @@
 =======
 2.Suvrayan Bandyopadhyay
 =======
-
-
-
 
